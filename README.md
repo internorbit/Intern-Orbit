@@ -27,18 +27,18 @@ Internships range from **1 to 3 months**, providing hands-on projects, mentorshi
 - Open source for community contributions
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js / Next.js (planned)
-- **Backend:** Node.js / Express.js or Go (Gin)
-- **Database:** PostgreSQL / MongoDB
-- **Styling:** Tailwind CSS or Chakra UI
-- **Hosting:** Vercel / Netlify / AWS
+- **Frontend:** React.js 
+- **Backend:**  Express.js
+- **Database:** MongoDB
+- **Styling:** Tailwind CSS
+- **Hosting:** Vercel
 
 ## 📂 Project Structure
-internorbit-company-website/
-├── frontend/ # React or Next.js frontend code
-├── backend/ # Backend APIs
-├── docs/ # Documentation
-└── README.md
+internorbit-official/
+|-- frontend/ # React or Next.js frontend code
+|-- backend/ # Backend APIs
+|-- docs/ # Documentation
+|__ README.md
 
 
 ## 🤝 Contributing
@@ -50,15 +50,12 @@ We welcome contributions! Here's how you can help:
 5. Push to your branch (`git push origin feature-xyz`)
 6. Open a **Pull Request**
 
-## 📝 License
-This project is licensed under the [MIT License](LICENSE).
-
 ## 📧 Contact
 Have questions or want to collaborate?  
 Reach out to us:
-- Email: **internorbit@gmail.com**
-- LinkedIn: [Internorbit](#)
-- Instagram: [@internorbit](#)
+- Email: **internsorbits@gmail.com**
+- LinkedIn: [Internorbit](https://www.linkedin.com/company/intern-orbit/)
+- X: [@internorbit](https://x.com/internorbit)
 
 ---
 
