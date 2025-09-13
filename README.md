@@ -34,11 +34,12 @@ Internships range from **1 to 3 months**, providing hands-on projects, mentorshi
 - **Hosting:** Vercel
 
 ## 📂 Project Structure
+```
 internorbit-official/
 |-- frontend/ # React or Next.js frontend code
 |-- backend/ # Backend APIs
-|-- docs/ # Documentation
 |__ README.md
+```
 
 
 ## 🤝 Contributing
