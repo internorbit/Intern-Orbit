@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
+
+# Go build cache
+bin/
+*.exe
+*.out
