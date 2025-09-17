@@ -1,14 +1,24 @@
-# Node modules
+# Node / React
 node_modules/
-
-# Build files
-dist/
 build/
+dist/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
 
-# Logs
-*.log
-
-# Go build cache
-bin/
-*.exe
+# Go build
+/bin/
+/pkg/
+/*.exe
+/*.test
 *.out
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
