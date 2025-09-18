@@ -1,0 +1,24 @@
+# Node / React
+node_modules/
+build/
+dist/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Go build
+/bin/
+/pkg/
+/*.exe
+/*.test
+*.out
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
